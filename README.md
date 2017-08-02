@@ -29,13 +29,13 @@ ba.add(item)
 price = ba.total
 ```
 
-Implement a checkout system that fulfils these requirements in Ruby.
+Implement a checkout system that fulfills these requirements in Ruby.
 
 Here is some test data:
 
 ```
 Basket items: MC1, BR1, MC1, PZ1
-Total price expected: £22.25
+Total price expected: £19.34
 ```
 
 ```
